@@ -1,4 +1,4 @@
-# Time Forecasting methods used:<br>
+# Time Series Forecasting methods used:<br>
 &nbsp;1.Naive Approach<br>
 &nbsp;2.Moving Average<br>
 &nbsp;3.Simple Exponential Smoothing<br>
